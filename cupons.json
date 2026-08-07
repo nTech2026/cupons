@@ -1,0 +1,14 @@
+{
+  "cupons": [
+    {
+      "codigo": "TELA10",
+      "titulo": "10% OFF na troca de tela",
+      "descricao": "Peça + mão de obra"
+    },
+    {
+      "codigo": "CARGA15",
+      "titulo": "15% OFF em serviços relacionados a carregamento",
+      "descricao": "Peça + mão de obra"
+    }
+  ]
+}
