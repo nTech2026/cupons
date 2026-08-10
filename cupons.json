@@ -1,14 +1,14 @@
 {
   "cupons": [
     {
-      "codigo": "kkk",
+      "codigo": "TELA10",
       "titulo": "10% OFF na troca de tela",
-      "descricao": "Peça + mão de obra"
+      "descricao": "Quero este"
     },
     {
-      "codigo": "kukukkukk",
+      "codigo": "RECARGA15",
       "titulo": "15% OFF em serviços relacionados a carregamento",
-      "descricao": "Peça + mão de obra"
+      "descricao": "Quero este"
     }
   ]
 }
