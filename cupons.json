@@ -1,1 +1,14 @@
-[]
+{
+  "cupons": [
+    {
+      "codigo": "TELA10",
+      "titulo": "10% OFF na troca de tela",
+      "descricao": "Quero este"
+    },
+    {
+      "codigo": "RECARGA15",
+      "titulo": "15% OFF em serviços relacionados a carregamento",
+      "descricao": "Quero este"
+    }
+  ]
+}
